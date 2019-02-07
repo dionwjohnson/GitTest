@@ -1,3 +1,9 @@
 This is my file
 yay
+<<<<<<< HEAD
 number ones entry
+=======
+whatsup buddy
+number ones entry
+here we go
+>>>>>>> f1adbd110ff77838034ad9fa8449aa13dfdb288b
