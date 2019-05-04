@@ -4,7 +4,7 @@ def djAdd(x, y):
 
 
 def djMult(x, y):
-    pass
+    return x * y
 
 
 def djDiv(x, y):
