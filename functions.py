@@ -5,3 +5,7 @@ def djAdd(x, y):
 
 def djMult(x, y):
     pass
+
+
+def djDiv(x, y):
+    pass
