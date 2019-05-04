@@ -1,4 +1,11 @@
 This is my file
+<<<<<<< HEAD
 yay
 whatsup buddy
 master change
+=======
+whatsup buddy
+number ones entry
+here we go
+
+>>>>>>> f9746fffc3e70cec40e296589d5d4d13c7211ab8
