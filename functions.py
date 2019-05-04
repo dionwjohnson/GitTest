@@ -8,4 +8,4 @@ def djMult(x, y):
 
 
 def djDiv(x, y):
-    pass
+    return x / y
