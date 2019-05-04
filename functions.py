@@ -1,6 +1,6 @@
 # functions.py
 def djAdd(x, y):
-    pass
+    return x+y
 
 
 def djMult(x, y):
