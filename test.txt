@@ -1,11 +1,25 @@
 This is my file
 <<<<<<< HEAD
 yay
+<<<<<<< HEAD
 whatsup buddy
 master change
+=======
+<<<<<<< HEAD
+number ones entry
+=======
+whatsup buddy
+number ones entry
+here we go
+>>>>>>> f1adbd110ff77838034ad9fa8449aa13dfdb288b
+>>>>>>> numberone
 =======
 whatsup buddy
 number ones entry
 here we go
 
+<<<<<<< HEAD
 >>>>>>> f9746fffc3e70cec40e296589d5d4d13c7211ab8
+=======
+>>>>>>> d436cf4fd932b653348b5016e41f2db3178d0acd
+>>>>>>> numberone
