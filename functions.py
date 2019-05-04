@@ -9,3 +9,7 @@ def djMult(x, y):
 
 def djDiv(x, y):
     return x / y
+
+
+def djSubtract(x, y):
+    pass
