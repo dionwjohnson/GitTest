@@ -1,5 +1,16 @@
 This is my file
+<<<<<<< HEAD
+yay
+<<<<<<< HEAD
+number ones entry
+=======
+whatsup buddy
+number ones entry
+here we go
+>>>>>>> f1adbd110ff77838034ad9fa8449aa13dfdb288b
+=======
 whatsup buddy
 number ones entry
 here we go
 
+>>>>>>> d436cf4fd932b653348b5016e41f2db3178d0acd
