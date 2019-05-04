@@ -12,4 +12,4 @@ def djDiv(x, y):
 
 
 def djSubtract(x, y):
-    pass
+    return x - y
