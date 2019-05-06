@@ -13,3 +13,7 @@ def djDiv(x, y):
 
 def djSubtract(x, y):
     return x - y
+
+
+def djLen(x):
+    return len(x)
