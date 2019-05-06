@@ -17,3 +17,7 @@ def djSubtract(x, y):
 
 def djLen(x):
     return len(x)
+
+
+def friendly(x):
+    print(f"hello there {x}")
